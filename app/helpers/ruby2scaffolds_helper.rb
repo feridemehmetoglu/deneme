@@ -1,0 +1,2 @@
+module Ruby2scaffoldsHelper
+end
