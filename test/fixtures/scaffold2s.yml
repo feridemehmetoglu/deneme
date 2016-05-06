@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  Flower: MyString
+  name: MyString
+  type: 
+
+two:
+  Flower: MyString
+  name: MyString
+  type: 
